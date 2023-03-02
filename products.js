@@ -7,7 +7,7 @@ const app = {
     data() {
         return {
             baseUrl: "https://vue3-course-api.hexschool.io",
-            api_path: "hmjbs",
+            api_path: "hoganstone",
             products:[],
             tempProduct:{
                 imagesUrl:[],
